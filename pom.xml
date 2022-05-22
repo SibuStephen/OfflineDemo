@@ -12,7 +12,7 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<mavenVersion>3.0</mavenVersion>
-		<gwt.version>2.6.1-rc2</gwt.version>
+		<gwt.version>2.7.0</gwt.version>
 		<runTarget>http://localhost:8080/offline-demo/</runTarget>
 	</properties>
 
